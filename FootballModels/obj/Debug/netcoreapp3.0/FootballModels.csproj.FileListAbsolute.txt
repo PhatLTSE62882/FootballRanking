@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\obj\Debug\netcoreapp3.0\FootballModels.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\obj\Debug\netcoreapp3.0\FootballModels.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\bin\Debug\netcoreapp3.0\FootballModels.deps.json
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\bin\Debug\netcoreapp3.0\FootballModels.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\bin\Debug\netcoreapp3.0\FootballModels.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\bin\Debug\netcoreapp3.0\FootballModels.dll
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\bin\Debug\netcoreapp3.0\FootballModels.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\obj\Debug\netcoreapp3.0\FootballModels.dll
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\obj\Debug\netcoreapp3.0\FootballModels.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\FootballModels\obj\Debug\netcoreapp3.0\FootballModels.csprojAssemblyReference.cache

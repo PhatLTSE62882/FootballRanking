@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\bin\Debug\netcoreapp3.0\Constants.deps.json
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\bin\Debug\netcoreapp3.0\Constants.dll
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\bin\Debug\netcoreapp3.0\Constants.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\obj\Debug\netcoreapp3.0\Constants.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\obj\Debug\netcoreapp3.0\Constants.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\obj\Debug\netcoreapp3.0\Constants.dll
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\obj\Debug\netcoreapp3.0\Constants.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\Constants\obj\Debug\netcoreapp3.0\Constants.csprojAssemblyReference.cache

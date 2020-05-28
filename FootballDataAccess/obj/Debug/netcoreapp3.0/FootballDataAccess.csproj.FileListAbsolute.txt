@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\bin\Debug\netcoreapp3.0\FootballDataAccess.deps.json
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\bin\Debug\netcoreapp3.0\FootballDataAccess.dll
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\bin\Debug\netcoreapp3.0\FootballDataAccess.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\bin\Debug\netcoreapp3.0\FootballModels.dll
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\bin\Debug\netcoreapp3.0\FootballModels.pdb
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.dll
+C:\Users\ADMIN\source\repos\FootballRanking\FootballDataAccess\obj\Debug\netcoreapp3.0\FootballDataAccess.pdb
